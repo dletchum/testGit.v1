@@ -1,1 +1,3 @@
 passwordless issue testing with token
+
+push and pull worked initially. now continuing test 
